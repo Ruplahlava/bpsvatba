@@ -1,68 +1,89 @@
-body{
+body {
     font-family: 'Raleway', sans-serif;
 }
-h1{
+
+h1 {
     font-size: 5em;
     font-family: 'Alegreya Sans SC', sans-serif;
     color: #fff;
-    margin:0;
-    padding:0;
+    margin: 0;
+    padding: 0;
     text-shadow: 0 0 10px #212121;
 }
-.section{
-    text-align:center;
+h2{
+    font-size: 2em;
+    font-family: 'Alegreya Sans SC', sans-serif;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+    text-shadow: 0 0 10px #212121;
+}
+
+.section {
+    text-align: center;
     background-size: cover;
 }
-.section h1{
+
+.section h1 {
     top: 50%;
     transform: translateY(-50%);
     position: relative;
 }
-.slide{
+
+.slide {
     background-size: cover;
 }
-#section0{
-    background-image: url(../img/DSC03510.JPG);
-}
+
 #menu li {
-    display:inline-block;
+    display: inline-block;
     margin: 10px;
     color: #000;
-    background:#fff;
-    background: rgba(255,255,255, 0.5);
+    background: #fff;
+    background: rgba(255, 255, 255, 0.5);
     -webkit-border-radius: 10px;
     border-radius: 10px;
 }
-#menu li.active{
-    background:#666;
-    background: rgba(0,0,0, 0.5);
+
+#menu li.active {
+    background: #666;
+    background: rgba(0, 0, 0, 0.5);
     color: #fff;
 }
-#menu li a{
-    text-decoration:none;
+
+#menu li a {
+    text-decoration: none;
     color: #000;
 }
-#menu li.active a:hover{
+
+#menu li.active a:hover {
     color: #000;
 }
-#menu li:hover{
-    background: rgba(255,255,255, 0.8);
+
+#menu li:hover {
+    background: rgba(255, 255, 255, 0.8);
 }
+
 #menu li a,
-#menu li.active a{
+#menu li.active a {
     padding: 9px 18px;
-    display:block;
+    display: block;
 }
-#menu li.active a{
+
+#menu li.active a {
     color: #fff;
 }
-#menu{
-    position:fixed;
-    top:0;
-    left:0;
+
+#menu {
+    position: fixed;
+    top: 0;
+    left: 0;
     height: 40px;
     z-index: 70;
     width: 100%;
     padding: 0;
-    margin:0;
+    margin: 0;
+}
+
+#section0 {
+    background-image: url(../img/DSC03510.JPG);
 }

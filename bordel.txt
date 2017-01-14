@@ -1,13 +1,13 @@
 Sekce:
-1:  název, kdy , kde
-2:  pozvánka (kolečko se zvětšením)
-5:  Doprava + doodle na autobus
+1:  název, kdy , kde 22.4 13:00
 3:  Podrobnější info
     Na místě, podrobnější info
     S sebou oblečení na výletek
     Oběd špekáček, raut 17:30
     Vše venku na louce u chalupy, stany popř uvnitř
     Přespání, kdo chce přespat, nečht si vezme karmitku a spacák, odvoz bude též zajištěn
+5:  Doprava + doodle na autobus
+2:  pozvánka (kolečko se zvětšením)
 4:  Čím nám uděláte radost
 
 
