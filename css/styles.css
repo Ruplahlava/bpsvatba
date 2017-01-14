@@ -2,22 +2,7 @@ body {
     font-family: 'Raleway', sans-serif;
 }
 
-h1 {
-    font-size: 5em;
-    font-family: 'Alegreya Sans SC', sans-serif;
-    color: #fff;
-    margin: 0;
-    padding: 0;
-    text-shadow: 0 0 10px #212121;
-}
-h2{
-    font-size: 2em;
-    font-family: 'Alegreya Sans SC', sans-serif;
-    color: #fff;
-    margin: 0;
-    padding: 0;
-    text-shadow: 0 0 10px #212121;
-}
+
 
 .section {
     text-align: center;
@@ -86,4 +71,32 @@ h2{
 
 #section0 {
     background-image: url(../img/DSC03510.JPG);
+}
+#section0 h1 {
+    font-size: 5em;
+    font-family: 'Alegreya Sans SC', sans-serif;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+    text-shadow: 0 0 10px #212121;
+}
+#section0 h2{
+    font-size: 2em;
+    font-family: 'Alegreya Sans SC', sans-serif;
+    color: #d4d4d4;
+    margin: 0;
+    padding: 0;
+    text-shadow: 0 0 5px #373737;
+}
+#section1 {
+    background-image: url(../img/bara.jpg);
+}
+#section2 {
+    background-image: url(../img/prema.jpg);
+}
+#section3 {
+    background-image: url(../img/blur.jpg);
+}
+#section4 {
+    background-image: url(../img/nohy.jpg);
 }
