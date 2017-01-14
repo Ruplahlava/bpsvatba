@@ -1,0 +1,33 @@
+Sekce:
+1:  název, kdy , kde
+2:  pozvánka (kolečko se zvětšením)
+5:  Doprava + doodle na autobus
+3:  Podrobnější info
+    Na místě, podrobnější info
+    S sebou oblečení na výletek
+    Oběd špekáček, raut 17:30
+    Vše venku na louce u chalupy, stany popř uvnitř
+    Přespání, kdo chce přespat, nečht si vezme karmitku a spacák, odvoz bude též zajištěn
+4:  Čím nám uděláte radost
+
+
+
+
+
+
+Pro nás
+    zamluvit toi toi
+    zamluvit cestu
+    domluvit vjezd
+    Domána
+
+
+
+    font-family: 'Noto Serif', serif;
+    font-family: 'Crimson Text', serif;
+    font-family: 'Roboto Slab', serif;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Cardo', serif;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+    font-family: 'Alegreya Sans SC', sans-serif;
