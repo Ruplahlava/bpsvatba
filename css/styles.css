@@ -37,7 +37,7 @@ body {
     background-image: url(../img/DSC03510.JPG);
 }
 
-#section0 h1, #section1 h1, #section2 h1 ,#section4 h1{
+#section0 h1, #section1 h1, #section2 h1, #section4 h1 {
     font-size: 5.5em;
     font-family: 'Alegreya Sans SC', sans-serif;
     color: #fff;
@@ -47,33 +47,34 @@ body {
 }
 
 #section0 h2 {
-font-size: 2.4em;
-font-family: 'Alegreya Sans SC', sans-serif;
-color: #d4d4d4;
-margin: 0;
-padding: 0;
-text-shadow: 0 0 5px #373737;
+    font-size: 2.4em;
+    font-family: 'Alegreya Sans SC', sans-serif;
+    color: #d4d4d4;
+    margin: 0;
+    padding: 0;
+    text-shadow: 0 0 5px #373737;
 }
 
-#section1 h1{
-margin-bottom: 0px;
+#section1 h1 {
+    margin-bottom: 0px;
 }
+
 #section0 h2 > a {
-text-shadow: 0 0 3px #fcfcfc;
+    text-shadow: 0 0 3px #fcfcfc;
 }
 
 #section1 {
     background-image: url(../img/bara.jpg);
 }
 
-#section1 .text-content,#section4 .text-content {
+#section1 .text-content, #section4 .text-content, #section2 .text-content {
     padding: 10px 5px 10px 5px;
     color: #272727;
     font-weight: bold;
     -webkit-border-radius: 3px 3px 3px 3px;
     border-radius: 3px 3px 3px 3px;
     background-color: rgba(227, 227, 227, 0.54);
-    text-align: left;
+    text-align: justify;
 }
 
 #section2 {
@@ -81,13 +82,8 @@ text-shadow: 0 0 3px #fcfcfc;
 }
 
 #section2 .text-content {
-    padding: 10px 5px 10px 5px;
     color: #d8d8d8;
-    font-weight: bold;
-    -webkit-border-radius: 3px 3px 3px 3px;
-    border-radius: 3px 3px 3px 3px;
     background-color: rgba(19, 19, 19, 0.54);
-    text-align: left;
 }
 
 #section3 {
@@ -100,12 +96,15 @@ text-shadow: 0 0 3px #fcfcfc;
     margin-top: 10px;
     visibility: hidden;
 }
-#section3 .clickme-trigger:hover .clickme{
+
+#section3 .clickme-trigger:hover .clickme {
     visibility: visible;
 }
-#section3 .clickme-trigger{
+
+#section3 .clickme-trigger {
     display: inline-block
 }
+
 #section4 {
     background-image: url(../img/nohy.jpg);
 }
@@ -118,10 +117,12 @@ text-shadow: 0 0 3px #fcfcfc;
     #section1 .text-content {
         font-size: 0.8em;
     }
-    #section4 h1{
+
+    #section4 h1 {
         font-size: 3em;
     }
-    #section2 h1{
+
+    #section2 h1 {
         font-size: 3em;
     }
 
