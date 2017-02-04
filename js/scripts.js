@@ -3,7 +3,6 @@ $(document).ready(function() {
         verticalCentered: true,
         menu: '#menu',
         anchors: ['uvod', 'info', 'doprava', 'radost', 'pozvanka'],
-        navigation: true,
         responsiveWidth: 900
     });
 

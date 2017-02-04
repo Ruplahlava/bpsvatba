@@ -66,6 +66,9 @@ body {
 #section1 {
     background-image: url(../img/bara.jpg);
 }
+.info-slide{
+    background-image: url(../img/P8120704.jpg);
+}
 
 #section1 .text-content, #section4 .text-content, #section2 .text-content {
     padding: 10px 5px 10px 5px;
@@ -73,12 +76,12 @@ body {
     font-weight: bold;
     -webkit-border-radius: 3px 3px 3px 3px;
     border-radius: 3px 3px 3px 3px;
-    background-color: rgba(227, 227, 227, 0.54);
+    background-color: rgba(227, 227, 227, 0.65);
     text-align: justify;
 }
 
 #section2 {
-    background-image: url(../img/prema.jpg);
+    background-image: url(../img/P8160977.jpg);
 }
 
 #section2 .text-content {
@@ -106,7 +109,7 @@ body {
 }
 
 #section4 {
-    background-image: url(../img/nohy.jpg);
+    background-image: url(../img/P8130805.jpg);
 }
 
 @media (max-width: 1200px) {
